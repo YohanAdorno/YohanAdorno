@@ -6,3 +6,4 @@
 - Impressoras, Notebooks, CPUs e celulares
 - Contato: yohanadorno@hotmail.com [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:yohanadorno@hotmail.com) 
  / +5511958228684 ![WhatsApp](https://img.shields.io)
+
